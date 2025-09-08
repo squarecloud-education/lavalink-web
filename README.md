@@ -1,4 +1,5 @@
-# 🔗 Square Lavalink — Host Lavalink Audio Server on Square Cloud ☁️
+# 🔗 Square Lavalink
+## Host Lavalink Audio Server on Square Cloud ☁️
 
 > 🌐 Easily host your own Lavalink audio server on Square Cloud and create powerful audio experiences from anywhere, right from your browser, with a beautiful and user-friendly interface.
 
